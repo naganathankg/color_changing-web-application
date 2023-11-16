@@ -1,0 +1,21 @@
+.box{
+    background-color:#FFD28F;
+    margin-top: 180px;
+    height: 200px;
+    width: 300px;
+    margin-left: 520px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    color:#FFD28F;
+}
+body{
+    background-color: #132043;
+    font-family: 'Poppins', sans-serif;
+}
+.box h1{
+    color: #ED7D31;
+}
